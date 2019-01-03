@@ -19,40 +19,37 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
-## Installation
+## 설치
 
-This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/).
+이건 [npm](https://www.npmjs.com/)을 이용해 설치할 수 있는 [Node.js](https://nodejs.org/en/) 모듈 입니다.
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/).
-Node.js 0.10 or higher is required.
+설치하기 전에, [Node.js를 다운받으십시오.](https://nodejs.org/en/download/). 최소 Node.js 0.10 버전이 요구됩니다.
 
-Installation is done using the
-[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+설치를 다음 명령어를 이용해 완료시키십시오.
+[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
 $ npm install express
 ```
 
-Follow [our installing guide](http://expressjs.com/en/starter/installing.html)
-for more information.
+더 많은 정보를 위해 [설치 가이드](http://expressjs.com/en/starter/installing.html)를 보십시오.
 
-## Features
+## 특징
 
-  * Robust routing
-  * Focus on high performance
-  * Super-high test coverage
-  * HTTP helpers (redirection, caching, etc)
-  * View system supporting 14+ template engines
-  * Content negotiation
-  * Executable for generating applications quickly
+  * 강력한 라우팅
+  * 고성능
+  * 높은 신뢰도
+  * HTTP 도움 (redirection, caching 등)
+  * 14개 이상의 템플릿 지원
+  * 콘텐츠 협상
+  * 응용 프로그램을 빨리 생성하기 위한 실행파일
 
-## Docs & Community
+## 문서 & 커뮤니티
 
-  * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
+  * [웹사이트와 커뮤니티](http://expressjs.com/) - [[웹사이트 레포](https://github.com/expressjs/expressjs.com)]
   * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
-  * [GitHub Organization](https://github.com/expressjs) for Official Middleware & Modules
-  * Visit the [Wiki](https://github.com/expressjs/express/wiki)
+  * [GitHub Group](https://github.com/expressjs) for Official Middleware & Modules
+  * [위키](https://github.com/expressjs/express/wiki)
   * [Google Group](https://groups.google.com/group/express-js) for discussion
   * [Gitter](https://gitter.im/expressjs/express) for support and discussion
 
